@@ -19,6 +19,10 @@
 
 C. Dong, C. C. Loy, K. He, and X. Tang, “Learning a deep convolutional network for image super-resolution,” in ECCV,2014.
 
+##### DRCN
+
+J. Kim, J. Kwon Lee, and K. Mu Lee, “Deeply-recursive convolutional network for image super-resolution,” in CVPR, 2016.
+
 ##### Memnet
 
 ​	Y. Tai, J. Yang, X. Liu, and C. Xu, “Memnet: A persistent memory network for image restoration,” in ICCV, 2017.
@@ -26,10 +30,6 @@ C. Dong, C. C. Loy, K. He, and X. Tang, “Learning a deep convolutional network
 ##### DRRN
 
 ​	Y. Tai, J. Yang, and X. Liu, “Image super-resolution via deep recursive residual network,” in CVPR, 2017
-
-##### DRCN
-
-J. Kim, J. Kwon Lee, and K. Mu Lee, “Deeply-recursive convolutional network for image super-resolution,” in CVPR, 2016.
 
 ##### ZSSR
 
@@ -93,22 +93,37 @@ J. Kim, J. Kwon Lee, and K. Mu Lee, “Deeply-recursive convolutional network fo
 #### Residual Learning
 ##### Global Residual Learning
 
+##### VDSR
+
 ​		J. Kim, J. Kwon Lee, and K. Mu Lee, “Accurate image super resolution using very deep convolutional networks,” in CVPR,2016.
 
+##### Memnet
+
 ​		Y. Tai, J. Yang, X. Liu, and C. Xu, “Memnet: A persistent memory network for image restoration,” in ICCV, 2017.
+
+##### DRRN
+
 ​		Y. Tai, J. Yang, and X. Liu, “Image super-resolution via deep recursive residual network,” in CVPR, 2017.
+
+##### IDN
 
 ​		Z. Hui, X. Wang, and X. Gao, “Fast and accurate single image super-resolution via information distillation network,” in CVPR,2018.
 
 ##### Local Residual Learning
 
-​		Y. Zhang, K. Li, K. Li, L. Wang, B. Zhong, and Y. Fu, “Image super-resolution using very deep residual channel attention networks,” in ECCV, 2018.
+##### RED-Net
 
 ​		X. Mao, C. Shen, and Y.-B. Yang, “Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections,” in NIPS, 2016.
 
+##### RCAN
+
+​		Y. Zhang, K. Li, K. Li, L. Wang, B. Zhong, and Y. Fu, “Image super-resolution using very deep residual channel attention networks,” in ECCV, 2018.
+
+##### DSRN
+
 ​		W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang, “Image super-resolution via dual-state recurrent networks,” in CVPR, 2018
 
-​		K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in CVPR, 2016.
+##### MSRN
 
 ​		J. Li, F. Fang, K. Mei, and G. Zhang, “Multi-scale residual network for image super-resolution,” in ECCV, 2018.
 
@@ -131,9 +146,15 @@ J. Kim, J. Kwon Lee, and K. Mu Lee, “Deeply-recursive convolutional network fo
 #### Multi-path Learning
 ##### Global Mutil-path Learning
 
-​		W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang, “Deep laplacian pyramid networks for fast and accurate superresolution,” in CVPR, 2017.
+##### LapSRN
+
+​		W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang, “Deep laplacian pyramid networks for fast and accurate super resolution,” in CVPR, 2017.
+
+##### DSRN
 
 ​		W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang, “Image super-resolution via dual-state recurrent networks,” in CVPR, 2018.
+
+##### Pixel recursive super resolution
 
 ​		R. Dahl, M. Norouzi, and J. Shlens, “Pixel recursive super resolution,” in ICCV, 2017.
 
@@ -141,12 +162,13 @@ J. Kim, J. Kwon Lee, and K. Mu Lee, “Deeply-recursive convolutional network fo
 
 ##### Local Mutil-path Learning
 
+​		B. Lim, S. Son, H. Kim, S. Nah, and K. M. Lee, “Enhanced deep residual networks for single image super resolution,”inCVPRW, 2017.
+
 ​		J.Li,F.Fang,K.Mei,andG.Zhang,“Multi-scaleresidualnetwork for image super-resolution,” in ECCV, 2018.
-​	Scale-specific Multi-path Learning
 
-​		B. Lim, S. Son, H. Kim, S. Nah, and K. M. Lee, “Enhanced deep residualnetworksforsingleimagesuper-resolution,”inCVPRW, 2017.
+##### Scale-specific Multi-path Learning		
 
-​		N.Ahn,B.Kang,andK.-A.Sohn,“Fast,accurate,andlightweight super-resolution with cascading residual network,” in ECCV, 2018.
+​		N.Ahn,B.Kang,and K.-A.Sohn,“Fast,accurate,and light weight super-resolution with cascading residual network,” in ECCV, 2018.
 
 ​		Y. Wang, F. Perazzi, B. McWilliams, A. Sorkine-Hornung, O. Sorkine-Hornung, and C. Schroers, “A fully progressive approach to single-image super-resolution,” in CVPRW, 2018.
 
@@ -157,7 +179,7 @@ J. Kim, J. Kwon Lee, and K. Mu Lee, “Deeply-recursive convolutional network fo
 
 ​	Y. Tai, J. Yang, X. Liu, and C. Xu, “Memnet: A persistent memory network for image restoration,” in ICCV, 2017.
 
-​	N.Ahn,B.Kang,andK.-A.Sohn,“Fast,accurate,andlightweight super-resolution with cascading residual network,” in ECCV, 2018.
+​	N.Ahn,B.Kang,andK.-A.Sohn,“Fast,accurate,and light weight super-resolution with cascading residual network,” in ECCV, 2018.
 
 ​	Y. Zhang, Y. Tian, Y. Kong, B. Zhong, and Y. Fu, “Residual dense network for image super-resolution,” in CVPR, 2018.
 
