@@ -11,29 +11,13 @@
 
 #### Pre-upsampling SR
 
-##### [SRCNN](SRCNN.md)
-
-title：[Learning a deep convolutional network for image super-resolution](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
-
-author：C. Dong, C. C. Loy, K. He, and X. Tang
-
-conference：ECCV,2014.
-
-##### DRCN
-
-J. Kim, J. Kwon Lee, and K. Mu Lee, “Deeply-recursive convolutional network for image super-resolution,” in CVPR, 2016.
-
-##### Memnet
-
-​	Y. Tai, J. Yang, X. Liu, and C. Xu, “Memnet: A persistent memory network for image restoration,” in ICCV, 2017.
-
-##### DRRN
-
-​	Y. Tai, J. Yang, and X. Liu, “Image super-resolution via deep recursive residual network,” in CVPR, 2017
-
-##### ZSSR
-
-​	A. Shocher, N. Cohen, and M. Irani, “zero-shot super-resolution using deep internal learning,” in CVPR, 2018
+| model             | paper with link                                              | author                                 | conference  | code |
+| ----------------- | ------------------------------------------------------------ | -------------------------------------- | ----------- | ---- |
+| [SRCNN](SRCNN.md) | [Learning a deep convolutional network for image super-resolution](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) | C. Dong, C. C. Loy, K. He, and X. Tang | ECCV,2014.  |      |
+| DRCN              | Deeply-recursive convolutional network for image super-resolution | J. Kim, J. Kwon Lee, and K. Mu Lee     | CVPR, 2016. |      |
+| Memnet            | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu     | ICCV, 2017  |      |
+| DRRN              | Image super-resolution via deep recursive residual network   | Y. Tai, J. Yang, and X. Liu            | CVPR, 2017  |      |
+| ZSSR              | zero-shot super-resolution using deep internal learning      | A. Shocher, N. Cohen, and M. Irani     | CVPR, 2018  |      |
 
 #### Post-upsampling SR
 
