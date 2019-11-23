@@ -11,57 +11,49 @@
 
 #### Pre-upsampling SR
 
-| model             | paper with link                                              | author                                 | conference  | code |
-| ----------------- | ------------------------------------------------------------ | -------------------------------------- | ----------- | ---- |
-| [SRCNN](SRCNN.md) | [Learning a deep convolutional network for image super-resolution](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) | C. Dong, C. C. Loy, K. He, and X. Tang | ECCV,2014.  |      |
-| DRCN              | Deeply-recursive convolutional network for image super-resolution | J. Kim, J. Kwon Lee, and K. Mu Lee     | CVPR, 2016. |      |
-| Memnet            | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu     | ICCV, 2017. |      |
-| DRRN              | Image super-resolution via deep recursive residual network   | Y. Tai, J. Yang, and X. Liu            | CVPR, 2017. |      |
-| ZSSR              | zero-shot super-resolution using deep internal learning      | A. Shocher, N. Cohen, and M. Irani     | CVPR, 2018. |      |
+| model             | paper with link                                              | author                                 | conference | code |
+| ----------------- | ------------------------------------------------------------ | -------------------------------------- | ---------- | ---- |
+| [SRCNN](SRCNN.md) | [Learning a deep convolutional network for image super-resolution](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) | C. Dong, C. C. Loy, K. He, and X. Tang | ECCV,2014. |      |
+| DRCN              | Deeply-recursive convolutional network for image super-resolution | J. Kim, J. Kwon Lee, and K. Mu Lee     | CVPR,2016. |      |
+| Memnet            | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu     | ICCV,2017. |      |
+| DRRN              | Image super-resolution via deep recursive residual network   | Y. Tai, J. Yang, and X. Liu            | CVPR,2017. |      |
+| ZSSR              | zero-shot super-resolution using deep internal learning      | A. Shocher, N. Cohen, and M. Irani     | CVPR,2018. |      |
 
 #### Post-upsampling SR
 
 | model      | paper with link                                              | author                                                       | conference  | code |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | :--- |
-| FSRCNN     | Accelerating the super- resolution convolutional neural network | C. Dong, C. C. Loy, and X. Tang                              | ECCV, 2016. |      |
-| ESPCN      | Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network | W. Shi, J. Caballero, F. Huszar, J. Totz, A. P. Aitken, R. Bishop, ´D. Rueckert, and Z. Wang | CVPR, 2016. |      |
-| SRGAN      | Photo-realistic single image super-resolution using a generative adver-sarial network | C. Ledig, L. Theis, F. Huszar, J. Caballero, A. Cunningham, ´ A. Acosta, A. P. Aitken, A. Tejani, J. Totz, Z. Wang et al. | CVPR, 2017. |      |
+| FSRCNN     | Accelerating the super- resolution convolutional neural network | C. Dong, C. C. Loy, and X. Tang                              | ECCV,2016.  |      |
+| ESPCN      | Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network | W. Shi, J. Caballero, F. Huszar, J. Totz, A. P. Aitken, R. Bishop, ´D. Rueckert, and Z. Wang | CVPR,2016.  |      |
+| SRGAN      | Photo-realistic single image super-resolution using a generative adver-sarial network | C. Ledig, L. Theis, F. Huszar, J. Caballero, A. Cunningham, ´ A. Acosta, A. P. Aitken, A. Tejani, J. Totz, Z. Wang et al. | CVPR,2017.  |      |
 | EDSR       | Enhanced deep residual networks for single image super-resolution | B. Lim, S. Son, H. Kim, S. Nah, and K. M. Lee                | CVPRW,2017. |      |
-| SRDenseNet | Image super-resolution using dense skip connections          | T. Tong, G. Li, X. Liu, and Q. Gao                           | ICCV, 2017. |      |
-| DSRN       | Image super-resolution via dual-state recurrent networks     | W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang | CVPR, 2018. |      |
+| SRDenseNet | Image super-resolution using dense skip connections          | T. Tong, G. Li, X. Liu, and Q. Gao                           | ICCV,2017.  |      |
+| DSRN       | Image super-resolution via dual-state recurrent networks     | W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang | CVPR,2018.  |      |
 
 #### Progressive Upsampling SR
 
-| model     | paper with link                                              | author                                                       | conference   | code |
-| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---- |
-| LapSRN    | Deep laplacian pyramid networks for fast and accurate super resolution | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang             | CVPR, 2017.  |      |
-| MS-LapSRN | Fast and accurate image super-resolution with deep laplacian pyramid networks | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang             | TPAMI, 2018. |      |
-| ProSR     | A fully progressive approach to single-image super-resolution | Y. Wang, F. Perazzi, B. McWilliams, A. Sorkine-Hornung, O. Sorkine-Hornung, and C. Schroers | CVPRW, 2018. |      |
+| model     | paper with link                                              | author                                                       | conference  | code |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | ---- |
+| LapSRN    | Deep laplacian pyramid networks for fast and accurate super resolution | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang             | CVPR,2017.  |      |
+| MS-LapSRN | Fast and accurate image super-resolution with deep laplacian pyramid networks | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang             | TPAMI,2018. |      |
+| ProSR     | A fully progressive approach to single-image super-resolution | Y. Wang, F. Perazzi, B. McWilliams, A. Sorkine-Hornung, O. Sorkine-Hornung, and C. Schroers | CVPRW,2018. |      |
 
 #### Iterative Up-and-Down Sampling SR
 
 feedback network
 
-| model | paper with link                                    | author                                   | conference  | code |
-| ----- | -------------------------------------------------- | ---------------------------------------- | ----------- | ---- |
-| DBPN  | Deep backp-rojection networks for super-resolution | M. Haris, G. Shakhnarovich, and N. Ukita | CVPR, 2018. |      |
-| SRFBN | Feedback Network for Image Super-Resolution        |                                          | CVPR,2019.  |      |
-|       |                                                    |                                          |             |      |
-
-
-
-##### DBPN
-
-​	M. Haris, G. Shakhnarovich, and N. Ukita, “Deep backp-rojection networks for super-resolution,” in CVPR, 2018.
-
-##### SRFBN
-
-​	 "Feedback Network for Image Super-Resolution，" in CVPR,2019. 
+| model | paper with link                                    | author                                   | conference | code |
+| ----- | -------------------------------------------------- | ---------------------------------------- | ---------- | ---- |
+| DBPN  | Deep backp-rojection networks for super-resolution | M. Haris, G. Shakhnarovich, and N. Ukita | CVPR,2018. |      |
+| SRFBN | Feedback Network for Image Super-Resolution        |                                          | CVPR,2019. |      |
+|       |                                                    |                                          |            |      |
 
 ### 1.2 Network Design
 
 #### Residual Learning
 ##### Global Residual Learning
+
+
 
 ##### VDSR
 
