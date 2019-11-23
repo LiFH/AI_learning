@@ -36,11 +36,17 @@
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ---- |
 | LapSRN    | Deep laplacian pyramid networks for fast and accurate super resolution | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang             | CVPR, 2017.  |      |
 | MS-LapSRN | Fast and accurate image super-resolution with deep laplacian pyramid networks | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang             | TPAMI, 2018. |      |
-| ProSR     | Y. Wang, F. Perazzi, B. McWilliams, A. Sorkine-Hornung, O. Sorkine-Hornung, and C. Schroers | A fully progressive approach to single-image super-resolution | CVPRW, 2018. |      |
+| ProSR     | A fully progressive approach to single-image super-resolution | Y. Wang, F. Perazzi, B. McWilliams, A. Sorkine-Hornung, O. Sorkine-Hornung, and C. Schroers | CVPRW, 2018. |      |
 
 #### Iterative Up-and-Down Sampling SR
 
+feedback network
 
+| model | paper with link                                    | author                                   | conference  | code |
+| ----- | -------------------------------------------------- | ---------------------------------------- | ----------- | ---- |
+| DBPN  | Deep backp-rojection networks for super-resolution | M. Haris, G. Shakhnarovich, and N. Ukita | CVPR, 2018. |      |
+| SRFBN | Feedback Network for Image Super-Resolution        |                                          | CVPR,2019.  |      |
+|       |                                                    |                                          |             |      |
 
 
 
