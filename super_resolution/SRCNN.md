@@ -16,14 +16,14 @@
 
 **Chen Change Loy** 
 
-*　Queen Mary University of London in 2010，PhD degree
-*　Chinese University of Hong Kong，Assistant Professor
+* Queen Mary University of London in 2010，PhD degree
+* Chinese University of Hong Kong，Assistant Professor
+
 *　interests include computer vision and pattern recognition
 
 **Kaiming He** 
 
 * 2007, Tsinghua University, BS degree
-
 * 2011,Chinese University of Hong Kong, PhD degree
 * 2011,Microsoft Research Asia
 * Best Paper Award(CVPR 2009)

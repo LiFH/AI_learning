@@ -56,20 +56,20 @@ feedback network
 #### Residual Learning
 ##### Global Residual Learning
 
-| model  | paper with link                                              | author                             | conference  | code |
-| ------ | ------------------------------------------------------------ | ---------------------------------- | ----------- | ---- |
-| VDSR   | Accurate image super resolution using very deep convolutional networks | J. Kim, J. Kwon Lee, and K. Mu Lee | CVPR,2016.  |      |
-| Memnet | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu | ICCV, 2017. |      |
-| DRRN   | Image super-resolution via deep recursive residual network   | Y. Tai, J. Yang, and X. Liu        | CVPR, 2017. |      |
-| IDN    | Fast and accurate single image super-resolution via information distillation network | Z. Hui, X. Wang, and X. Gao        | CVPR,2018.  |      |
+| model  | paper with link                                              | author                             | conference | code |
+| ------ | ------------------------------------------------------------ | ---------------------------------- | ---------- | ---- |
+| VDSR   | Accurate image super resolution using very deep convolutional networks | J. Kim, J. Kwon Lee, and K. Mu Lee | CVPR,2016. |      |
+| Memnet | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu | ICCV,2017. |      |
+| DRRN   | Image super-resolution via deep recursive residual network   | Y. Tai, J. Yang, and X. Liu        | CVPR,2017. |      |
+| IDN    | Fast and accurate single image super-resolution via information distillation network | Z. Hui, X. Wang, and X. Gao        | CVPR,2018. |      |
 
 ##### Local Residual Learning
 
 | model   | paper with link                                              | author                                                       | conference  | code |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | ---- |
-| RED-Net | Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections | X. Mao, C. Shen, and Y.-B. Yang                              | NIPS, 2016. |      |
-| RCAN    | Image super-resolution using very deep residual channel attention networks | Y. Zhang, K. Li, K. Li, L. Wang, B. Zhong, and Y. Fu         | ECCV, 2018. |      |
-| DSRN    | Image super-resolution via dual-state recurrent networks     | W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang | CVPR, 2018. |      |
+| RED-Net | Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections | X. Mao, C. Shen, and Y.-B. Yang                              | NIPS,2016.  |      |
+| RCAN    | Image super-resolution using very deep residual channel attention networks | Y. Zhang, K. Li, K. Li, L. Wang, B. Zhong, and Y. Fu         | ECCV,2018.  |      |
+| DSRN    | Image super-resolution via dual-state recurrent networks     | W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang | CVPR,2018.  |      |
 | MSRN    | Multi-scale residual network for image super-resolution      | J. Li, F. Fang, K. Mei, and G. Zhang                         | ECCV, 2018. |      |
 
 
@@ -78,12 +78,13 @@ feedback network
 
 ​	to achieve large receptive field and learn higher-level features 
 
-| model  | paper with link                                              | author                             | conference  | code |
-| ------ | ------------------------------------------------------------ | ---------------------------------- | ----------- | ---- |
-| DRCN   | Deeply-recursive convolutional network for image super-resolution | J. Kim, J. Kwon Lee, and K. Mu Lee | CVPR, 2016. |      |
-| DRRN   | Image super-resolution via deep recursive residual network   | Y. Tai, J. Yang, and X. Liu        | CVPR, 2017. |      |
-| MemNet | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu | ICCV, 2017. |      |
-| CARN   | Fast, accurate, and lightweight super-resolution with cascading residual network | N. Ahn, B. Kang, and K.-A. Sohn    | ECCV,2018.  |      |
+| model  | paper with link                                              | author                             | conference | code |
+| ------ | ------------------------------------------------------------ | ---------------------------------- | ---------- | ---- |
+| DRCN   | Deeply-recursive convolutional network for image super-resolution | J. Kim, J. Kwon Lee, and K. Mu Lee | CVPR,2016. |      |
+| DRRN   | Image super-resolution via deep recursive residual network   | Y. Tai, J. Yang, and X. Liu        | CVPR,2017. |      |
+| MemNet | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu | ICCV,2017. |      |
+| CARN   | Fast, accurate, and lightweight super-resolution with cascading residual network | N. Ahn, B. Kang, and K.-A. Sohn    | ECCV,2018. |      |
+|        | Embedded Block Residual Network: A Recursive Restoration Model for Single-Image Super-Resolution | Yajun Qiu,Ruxin Wang,Dapeng Tao    | ICCV,2019  |      |
 
 
 
@@ -92,8 +93,8 @@ feedback network
 
 | model                            | paper with link                                              | author                                                   | conference  | code |
 | -------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- | ----------- | ---- |
-| LapSRN                           | Deep laplacian pyramid networks for fast and accurate super resolution | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang         | CVPR, 2017. |      |
-| DSRN                             | W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang | Image super-resolution via dual-state recurrent networks | CVPR, 2018. |      |
+| LapSRN                           | Deep laplacian pyramid networks for fast and accurate super resolution | W.-S. Lai, J.-B. Huang, N. Ahuja, and M.-H. Yang         | CVPR,2017.  |      |
+| DSRN                             | W. Han, S. Chang, D. Liu, M. Yu, M. Witbrock, and T. S. Huang | Image super-resolution via dual-state recurrent networks | CVPR,2018.  |      |
 | Pixel recursive super resolution | Pixel recursive super resolution                             | R. Dahl, M. Norouzi, and J. Shlens                       | ICCV, 2017. |      |
 | CNF(context-wise network fusion) | Image super resolution based on fusing multiple convolution neural networks | H. Ren, M. El-Khamy, and J. Lee                          | CVPRW,2017. |      |
 
@@ -108,7 +109,7 @@ feedback network
 
 | model | paper with link                                              | author                                                       | conference  | code |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | ---- |
-|       | Fast,accurate,and light weight super-resolution with cascading residual network | N.Ahn,B.Kang,and K.-A.Sohn                                   | ECCV, 2018. |      |
+|       | Fast,accurate,and light weight super-resolution with cascading residual network | N.Ahn,B.Kang,and K.-A.Sohn                                   | ECCV,2018.  |      |
 |       | A fully progressive approach to single-image super-resolution | Y. Wang, F. Perazzi, B. McWilliams, A. Sorkine-Hornung, O. Sorkine-Hornung, and C. Schroers | CVPRW,2018. |      |
 
 #### Dense Connections
@@ -116,32 +117,28 @@ feedback network
 
 | model  | paper with link                                              | author                                                       | conference           | code |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- | ---- |
-|        | Densely connected convolutional networks                     | G. Huang, Z. Liu, L. Van Der Maaten, and K. Q. Weinberger    | CVPR, 2017.          |      |
-|        | Image super-resolution using dense skip connections          | T. Tong, G. Li, X. Liu, and Q. Gao                           | ICCV, 2017.          |      |
-| Memnet | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu                           | ICCV, 2017.          |      |
-|        | Fast,accurate,and light weight super-resolution with cascading residual network | N.Ahn,B.Kang,andK.-A.Sohn                                    | ECCV, 2018.          |      |
-|        | Residual dense network for image super-resolution            | Y. Zhang, Y. Tian, Y. Kong, B. Zhong, and Y. Fu              | CVPR, 2018.          |      |
+|        | Densely connected convolutional networks                     | G. Huang, Z. Liu, L. Van Der Maaten, and K. Q. Weinberger    | CVPR,2017.           |      |
+|        | Image super-resolution using dense skip connections          | T. Tong, G. Li, X. Liu, and Q. Gao                           | ICCV,2017.           |      |
+| Memnet | Memnet: A persistent memory network for image restoration    | Y. Tai, J. Yang, X. Liu, and C. Xu                           | ICCV,2017.           |      |
+|        | Fast,accurate,and light weight super-resolution with cascading residual network | N.Ahn,B.Kang,andK.-A.Sohn                                    | ECCV,2018.           |      |
+|        | Residual dense network for image super-resolution            | Y. Zhang, Y. Tian, Y. Kong, B. Zhong, and Y. Fu              | CVPR,2018.           |      |
 | ESRGAN | Esrgan: Enhanced super-resolution generative adversarial networks | X. Wang, K. Yu, S. Wu, J. Gu, Y. Liu, C. Dong, C. C. Loy, Y. Qiao, and X. Tang | ECCV Workshop, 2018. |      |
 |        | Deep-back projection networks for super-resolution           | M.Haris,G.Shakhnarovich,andN.Ukita                           | CVPR, 2018.          |      |
 
 #### Channel Attention
 
-| model | paper with link                                              | author                                               | conference  | code |
-| ----- | ------------------------------------------------------------ | ---------------------------------------------------- | ----------- | ---- |
-|       | Image super-resolution using very deep residual channel attention networks | Y. Zhang, K. Li, K. Li, L. Wang, B. Zhong, and Y. Fu | ECCV, 2018. |      |
-|       | Squeeze-and-excitation networks                              | J. Hu, L. Shen, and G. Sun                           | CVPR, 2018. |      |
+| model | paper with link                                              | author                                               | conference | code |
+| ----- | ------------------------------------------------------------ | ---------------------------------------------------- | ---------- | ---- |
+|       | Image super-resolution using very deep residual channel attention networks | Y. Zhang, K. Li, K. Li, L. Wang, B. Zhong, and Y. Fu | ECCV,2018. |      |
+|       | Squeeze-and-excitation networks                              | J. Hu, L. Shen, and G. Sun                           | CVPR,2018. |      |
 
 #### Pyramid Pooling
 
-| model | paper with link | author | conference | code |
-| ----- | --------------- | ------ | ---------- | ---- |
-|       |                 |        |            |      |
-|       |                 |        |            |      |
-|       |                 |        |            |      |
-
-​	H.Zhao,J.Shi,X.Qi,X.Wang,andJ.Jia,“Pyramid scene parsing network,” in CVPR, 2017.
-
-​	K. He, X. Zhang, S. Ren, and J. Sun, “Spatial pyramid pooling in deep convolutional networks for visual recognition,” in ECCV, 2014
+| model | paper with link                                              | author                              | conference | code |
+| ----- | ------------------------------------------------------------ | ----------------------------------- | ---------- | ---- |
+|       | Spatial pyramid pooling in deep convolutional networks for visual recognition | K. He, X. Zhang, S. Ren, and J. Sun | ECCV, 2014 |      |
+|       | Pyramid scene parsing network                                | H.Zhao,J.Shi,X.Qi,X.Wang,andJ.Jia   | CVPR,2017. |      |
+|       |                                                              |                                     |            |      |
 
 #### Wavelet Transformation（小波变换）
 
@@ -164,11 +161,11 @@ feedback network
 
 ## 2.非监督学习
 
-| model | paper with link                                              | author                                                   | conference   | code |
-| ----- | ------------------------------------------------------------ | -------------------------------------------------------- | ------------ | ---- |
-| ZSSR  | zero-shot super-resolution using deep internal learning      | A. Shocher, N. Cohen, and M. Irani                       | CVPR, 2018.  |      |
-|       | Unsupervised image super-resolution using cycle-in-cycle generative adversarial networks | Y. Yuan, S. Liu, J. Zhang, Y. Zhang, C. Dong, and L. Lin | CVPRW, 2018. |      |
-|       | Deep image prior                                             | D. Ulyanov, A. Vedaldi, and V. Lempitsky                 | CVPR, 2018.  |      |
+| model | paper with link                                              | author                                                   | conference  | code |
+| ----- | ------------------------------------------------------------ | -------------------------------------------------------- | ----------- | ---- |
+| ZSSR  | zero-shot super-resolution using deep internal learning      | A. Shocher, N. Cohen, and M. Irani                       | CVPR, 2018. |      |
+|       | Unsupervised image super-resolution using cycle-in-cycle generative adversarial networks | Y. Yuan, S. Liu, J. Zhang, Y. Zhang, C. Dong, and L. Lin | CVPRW,2018. |      |
+|       | Deep image prior                                             | D. Ulyanov, A. Vedaldi, and V. Lempitsky                 | CVPR, 2018. |      |
 
 ## 3.弱监督学习
 
