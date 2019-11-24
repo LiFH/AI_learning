@@ -43,7 +43,7 @@ received the BS degree from Tsinghua University in 2007, and the PhD degree from
 
 【网络结构】
 
-![network](pic\SRCNN\network.JPG)
+![network](pic/SRCNN/network.JPG)
 
 * patch extraction and representation
 * Non-linear mapping
