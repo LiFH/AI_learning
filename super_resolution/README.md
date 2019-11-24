@@ -151,7 +151,7 @@ feedback network
 | DWSR  | Deep wavelet prediction for image super-resolution           | T. Guo, H. S. Mousavi, T. H. Vu, and V. Monga  | CVPRW,2017. |      |
 |       | Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution | H. Huang, R. He, Z. Sun, T. Tan et al.         | ICCV, 2017. |      |
 |       | Multi-level wavelet-cnn for image restoration                | P. Liu, H. Zhang, K. Zhang, L. Lin, and W. Zuo | CVPRW,2018. |      |
-|       |                                                              |                                                |             |      |
+|       | Wavelet Domain Style Transfer for an Effective Perception-distortion Tradeoff in Single Image Super-Resolution | Xin Deng,Ren Yang,Mai Xu,Pier Luigi Dragotti   | ICCV,2019   |      |
 
 #### blind sr
 
