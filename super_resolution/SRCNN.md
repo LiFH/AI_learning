@@ -42,7 +42,7 @@
 * the program chair (ICCV) 2009
 * IEEE fellow
 
-【解决的问题】
+【解决问题】
 
 使用CNN直接学习低分辨率图像到高分辨率图像之间端到端的非线性映射。替代传统方法学习LR dictionary—>HR dictionary 隐性学习的方式。
 
