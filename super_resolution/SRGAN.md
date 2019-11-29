@@ -1,5 +1,7 @@
 # SRGAN
 
+【整理时间】2019.11.28
+
 【论文题目】Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 
 【作者】 Christian Ledig，Lucas Theis...    (Twitter)
@@ -18,15 +20,23 @@ $$ l^{SR} = l_X^{SR} + 10^{-3}l_{Gen}^{SR} $$
 
 其中 $ l_X^{SR}$为内容（content）损失，$l_{Gen}^{SR}$为感知损失。
 
+【网络结构】
 
+![network](pic/SRGAN/network.JPG)
 
+SRGAN网络是基于GAN的思想构建的，由生成器和判别器组成。
 
+生成器：由几个残差块组成
+
+判别器：基于VGG网络
 
 【总结】
 
-
+SRGAN针对更大放大因子进行超分会造成失真、丢失高频细节信息的问题，提出了基于感知损失的对抗网络。最后取得了比较好的效果，作者最后提出更深的网络会带来更好的效果，但同时也会带来训练、测试时间增长的代价。SRGAN在MOS指标取得了当时最好的结果。
 
 【我的思考】
+
+回来看这篇论文，有[WDST](WDST.md)的缘故，SRGAN首先关注到
 
 
 
