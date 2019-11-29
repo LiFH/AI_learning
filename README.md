@@ -13,7 +13,7 @@
 
 ## [deep learning](deep_learning/README.md)
 
-* 2019.11.26    增加CNN基础网络目录，计划两周内更新CNN的发展，并了解相关网络设计的优缺点。
+* 2019.11.26    增加[CNN基础网络](deep_learning/convolutional network/baseModel.md)目录，计划两周内更新CNN的发展，并了解相关网络设计的优缺点。
 
 ## [image classification](image_classification/README.md)
 
@@ -23,9 +23,9 @@
 
 * 2019.11.24    重读[SRCNN](super_resolution/SRCNN.md)，整理SRCNN论文笔记，SRCNN是首个将深度学习引入到超分领域的方法。
 * 2019.11.26    研读[ZSSR](super_resolution/ZSSR.md)网络，了解其设计思想，这是首个unsupervised的sr方法，整理并更新的ZSSR笔记。
-* 2019.11.27    WDST网络，了解了小波变换将图像高频和低频部分分离，还没深刻理解，明天继续看。
-* 2019.11.28    SRGAN，这篇文章使用了感知损失加强了图片的真实感。
-* 2019.11.29    继续研读WDST
+* 2019.11.27    [WDST](super_resolution/WDST.md)网络，了解了小波变换将图像高频和低频部分分离，还没深刻理解，明天继续看。
+* 2019.11.28    [SRGAN](super_resolution/SRGAN.md)，这篇文章使用了GAN权衡了感知损失和内容损失。
+* 2019.11.29    继续研读[WDST](super_resolution/WDST.md),整理了网络及结论。
 
 
 
