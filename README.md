@@ -11,15 +11,15 @@
 
 ​																																				---------写于 2019.11.26 LiFH
 
-## [deep learning](deep_learning/README.md)
+## [Deep learning](deep_learning/README.md)
 
-* 2019.11.26    增加[CNN基础网络](deep_learning/convolutional network/baseModel.md)目录，计划两周内更新CNN的发展，并了解相关网络设计的优缺点。
+* 2019.11.26    增加[CNN基础网络](deep_learning/CNNs/baseModel.md)目录，计划两周内更新CNN的发展，并了解相关网络设计的优缺点。
 
-## [image classification](image_classification/README.md)
+## [Image classification](image_classification/README.md)
 
-* 2019.12.10 整理图像分类数据集[dataset](image_classification/datasets)
+* 2019.12.10 整理图像分类数据集[dataset](image_classification/datasets.md)
 
-## [super resolution](super_resolution/README.md) 
+## [Super resolution](super_resolution/README.md) 
 
 * 2019.11.24    重读[SRCNN](super_resolution/SRCNN.md)，整理SRCNN论文笔记，SRCNN是首个将深度学习引入到超分领域的方法。
 * 2019.11.26    研读[ZSSR](super_resolution/ZSSR.md)网络，了解其设计思想，这是首个unsupervised的sr方法，整理并更新的ZSSR笔记。
