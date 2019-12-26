@@ -18,4 +18,4 @@
 
 （4）作者使用提出的方法流程测试基于面部的超分问题，实验证明有很大的提升。
 
-网络整体架构：![](/Users/lifenghai/workspace/AI_learning/super_resolution/pic/Weakly-SR/Screen Shot 2019-12-26 at 11.14.02 PM.png)
+网络整体架构：![](pic/Weakly-SR/Screen Shot 2019-12-26 at 11.14.02 PM.png)
