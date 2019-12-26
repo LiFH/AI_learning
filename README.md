@@ -26,8 +26,8 @@
 * 2019.11.27    [WDST](super_resolution/WDST.md)网络，了解了小波变换将图像高频和低频部分分离，还没深刻理解，明天继续看。
 * 2019.11.28    [SRGAN](super_resolution/SRGAN.md)，这篇文章使用了GAN权衡了感知损失和内容损失。
 * 2019.11.29    继续研读[WDST](super_resolution/WDST.md),整理了网络及结论。
-
-
+* 2019.12.26    [Weakly-supervised Super-Resolution](super_resolution/Weakly-SR.md)
+* 
 
 
 
